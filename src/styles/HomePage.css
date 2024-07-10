@@ -1,0 +1,17 @@
+.home-page {
+    padding: 2rem;
+  }
+  
+  .about {
+    text-align: center;
+  }
+  
+  .about h2,
+  .about h3 {
+    margin: 1rem 0;
+  }
+  
+  .about p {
+    margin: 0.5rem 0;
+  }
+  
